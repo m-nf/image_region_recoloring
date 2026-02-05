@@ -1,6 +1,6 @@
 # Recoloring of connected regions in binary image
 
-The console application written in ANSI C is intented for recoloring connected regions in binary image (black and white) using Connected-Component Labeling algorith from computer vision. 
+The console application written in ANSI C is intented for recoloring connected regions in binary image (black and white) using Connected-Component Labeling algorith from computer vision field. 
 
 The input image must be in Portable Gray Map (.pgm) format. The application contains input-checks.
 
