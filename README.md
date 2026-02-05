@@ -6,5 +6,4 @@ The input image must be in Portable Gray Map (.pgm) format. The application cont
 
 Connected regions are recolored with shades of grey.
 
-More in Czech-written documentation (the pdf).
-
+More information can be found in Czech-written [documentation](Dokumentace.pdf)
